@@ -81,7 +81,7 @@ com.example.newsapp
 * Bookmark Screen
 
   
-<img width="72" height="160" alt="WhatsApp Image 2026-05-23 at 2 20 20 AM" src="https://github.com/user-attachments/assets/ac70ee35-0d57-4868-ae2c-2c5ce52e1597" /> <img width="72" height="160" alt="WhatsApp Image 2026-05-23 at 2 20 20 AM (2)" src="https://github.com/user-attachments/assets/3027fd9a-075e-4b63-a557-38ccb01eddff" /> <img width="72" height="160" alt="WhatsApp Image 2026-05-23 at 2 20 19 AM" src="https://github.com/user-attachments/assets/50dcd32b-3771-45e5-99c5-b7cec2eba4de" /> <img width="72" height="160" alt="WhatsApp Image 2026-05-23 at 2 20 20 AM (1)" src="https://github.com/user-attachments/assets/25424d41-e137-4c13-ae7a-442dcc560e68" />
+<img width="144" height="320" alt="WhatsApp Image 2026-05-23 at 2 20 20 AM" src="https://github.com/user-attachments/assets/ac70ee35-0d57-4868-ae2c-2c5ce52e1597" /> <img width="144" height="320" alt="WhatsApp Image 2026-05-23 at 2 20 20 AM (2)" src="https://github.com/user-attachments/assets/3027fd9a-075e-4b63-a557-38ccb01eddff" /> <img width="144" height="320" alt="WhatsApp Image 2026-05-23 at 2 20 19 AM" src="https://github.com/user-attachments/assets/50dcd32b-3771-45e5-99c5-b7cec2eba4de" /> <img width="144" height="320" alt="WhatsApp Image 2026-05-23 at 2 20 20 AM (1)" src="https://github.com/user-attachments/assets/25424d41-e137-4c13-ae7a-442dcc560e68" />
 
 
 ---
