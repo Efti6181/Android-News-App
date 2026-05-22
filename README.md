@@ -215,12 +215,16 @@ This project helped in understanding:
 
 ---
 
-## 👨‍💻 Author
+## 📜 License
 
-Developed as a Mobile Application Development course project.
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is for educational purposes only.
+**Najmul Alam Efti**
+
+🎓 Premier University, Chittagong
+
+📧 \[najmul27alam@gmail.com]
